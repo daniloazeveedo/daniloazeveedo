@@ -1,16 +1,13 @@
-## Hi there 👋
+# How you doin! 👋
 
-<!--
-**daniloazeveedo/daniloazeveedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim:
+- 💻 Sou apaixonado por desenvolvimento web e atualmente estou aprimorando minhas habilidades em JavaScript, Node.js e React.
+- 🌱 Além disso, estou explorando Python para Data Science e buscando integrar essa nova área ao meu trabalho e projetos.
+- 🎓 Estudo na [Alura](https://www.alura.com.br/).
 
-Here are some ideas to get you started:
+### 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/daniloazeveedo/)
+- [Twitter](https://twitter.com/daniloazeveedo)
+- 📧 Email: daniloazeveedo@gmail.com.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Vamos conversar! Estou sempre aberto a colaborações e novas ideias. 😊
